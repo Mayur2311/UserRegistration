@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536465169877",
+    "project_id": "register-ea5a1",
+    "storage_bucket": "register-ea5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536465169877:android:f542c7f2d9d079376cb15c",
+        "android_client_info": {
+          "package_name": "com.example.userregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536465169877-0h3no296t1t6kf7ue6prt2dsaop2sevq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGFUMNiRWw11ClmbknTWv78lJE0IvxoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536465169877-0h3no296t1t6kf7ue6prt2dsaop2sevq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
